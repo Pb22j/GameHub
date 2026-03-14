@@ -13,7 +13,7 @@ except ImportError:
     SudokuGUI = None
 
 try:
-    from eight_puzzle_gui import EightPuzzleGUI
+    from Eight_puzzle.eight_puzzle_gui import EightPuzzleGUI
 except ImportError:
     EightPuzzleGUI = None
 
