@@ -1,6 +1,6 @@
 # Game Hub Project
 Welcome to the Game Hub a project made for Artificial Intelligence course (CSC361)
-
+![mainGUI](.github/mainGUI.png)
 ## Descreption
 simple GUI that allows you to play with **3** Different games that involved with AI:-
 ### Sudoku
