@@ -31,7 +31,7 @@ for more details about connect for read `Connect4_game/src/README.md`
 
 The Solver Will Provide Two Solution With Statistic And Paths A*,Greedy And User Can See Two Algorithm in One GUI And Can Compare Between Them:
 
-![8-puzzle](.github/8-puzzle.png)
+![8-puzzle](.github/8-puzzel.png)
 
 - **A\***
 - **Greedy**
