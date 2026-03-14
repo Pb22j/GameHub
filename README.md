@@ -1,8 +1,8 @@
 # Game Hub Project
-This is our team project for CSC361 course
+Welcome to the Game Hub a project made for Artificial Intelligence course (CSC361)
 
 ## Descreption
-simple GUI that allows you to play with **3** Defferent games:-
+simple GUI that allows you to play with **3** Different games that involved with AI:-
 ### Sudoku
 it is a Sudoku Solver that generate a Sudoku puzzel and try to solve it with 2 algorithms:-
 
