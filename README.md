@@ -6,6 +6,9 @@ Welcome to the Game Hub a project made for Artificial Intelligence course (CSC36
 ## Descreption
 simple GUI that allows you to play with **3** Different games that involved with AI:-
 ### Sudoku
+
+![Sudoku](.github/Sudoku.png)
+
 it is a Sudoku Solver that generate a Sudoku puzzel and try to solve it with 2 algorithms:-
 
   - **Smart CSP (MRV): We implemented the Minimum Remaining Values heuristic,
